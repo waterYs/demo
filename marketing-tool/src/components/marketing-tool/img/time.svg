@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>time</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40"></rect>
+    </defs>
+    <g id="time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_retail-copy-2">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.550111607"></g>
+            <path d="M21,19 L21,13 L19,13 L19,19 L19,21 L28,21 L28,19 L21,19 Z M20,33 C12.8202983,33 7,27.1797017 7,20 C7,12.8202983 12.8202983,7 20,7 C27.1797017,7 33,12.8202983 33,20 C33,27.1797017 27.1797017,33 20,33 Z" id="Combined-Shape" fill="#8CDFFF" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

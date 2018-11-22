@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>targetcustomer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40"></rect>
+    </defs>
+    <g id="targetcustomer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_retail">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#D8D8D8" opacity="0" xlink:href="#path-1"></use>
+            <path d="M12.5081308,27.3745686 C9.76008384,25.1755491 8,21.7933194 8,18 C8,11.372583 13.372583,6 20,6 C26.627417,6 32,11.372583 32,18 C32,21.7933194 30.2399162,25.1755491 27.4918692,27.3745686 C30.0481752,29.1802892 31.9240023,31.8852402 32.6589581,35.0290292 L7.30250695,35.1990306 C8.00876197,31.9828023 9.90586176,29.2127565 12.5081308,27.3745686 Z M20,21 L23.5267115,22.854102 L22.8531695,18.927051 L25.7063391,16.145898 L21.7633558,15.572949 L20,12 L18.2366442,15.572949 L14.2936609,16.145898 L17.1468305,18.927051 L16.4732885,22.854102 L20,21 Z" id="Combined-Shape" fill="#8CDFFF" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

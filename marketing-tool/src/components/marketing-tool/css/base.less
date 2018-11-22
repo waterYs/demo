@@ -1,0 +1,48 @@
+/*border-box*/
+.boxSizing{
+  box-sizing: border-box;
+}
+/*省略号*/
+.ellipse{
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap
+}
+/*图片角边框*/
+.borderImg{
+
+}
+/*清除浮动*/
+.clearFloat{
+  content:'';
+  display:block;
+  clear: both;
+}
+/*角度旋转*/
+.transform-rotate-x(@rotatX:'-180deg'){
+  transform: rotateX(@rotatX);
+  -webkit-transform: rotateX(@rotatX);
+}
+.transform-rotate-y(@rotateY:'-180deg'){
+  transform: rotateY(@rotateY);
+  -webkit-transform: rotateY(@rotateY);
+}
+.transform-rotate-z(@rotateZ:'-180deg'){
+  transform: rotateZ(@rotateZ);
+  -webkit-transform: rotateZ(@rotateZ);
+}
+/*圆角*/
+.borderRadius{
+  border-radius:100%;
+}
+/*transform*/
+.transform(@scale,@translateX,@translateY,@rotate){
+  transform:scale(@scale) translate(@translateX,@translateY) rotate(@rotate);
+  -webkit-transform:scale(@scale) translate(@translateX,@translateY) rotate(@rotate);
+}
+/*trans*/
+.transitionAll{
+  transition: all 1s;
+  -webkit-transition: all 1s;
+}
+

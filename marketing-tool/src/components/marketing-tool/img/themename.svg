@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>themename</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40"></rect>
+    </defs>
+    <g id="themename" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_retail-copy-3">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.36171875"></g>
+            <path d="M10.6776695,2.67766953 L26.6776695,2.67766953 C27.782239,2.67766953 28.6776695,3.57310003 28.6776695,4.67766953 L28.6776695,21.8492424 C28.6776695,22.3796754 28.4669558,22.8883832 28.0918831,23.263456 L20.0918831,31.263456 C19.3108345,32.0445046 18.0445046,32.0445046 17.263456,31.263456 L9.26345597,23.263456 C8.88838321,22.8883832 8.67766953,22.3796754 8.67766953,21.8492424 L8.67766953,4.67766953 C8.67766953,3.57310003 9.57310003,2.67766953 10.6776695,2.67766953 Z M18.6776695,23.6776695 C20.8868085,23.6776695 22.6776695,21.8868085 22.6776695,19.6776695 C22.6776695,17.4685305 20.8868085,15.6776695 18.6776695,15.6776695 C16.4685305,15.6776695 14.6776695,17.4685305 14.6776695,19.6776695 C14.6776695,21.8868085 16.4685305,23.6776695 18.6776695,23.6776695 Z" id="Combined-Shape" fill="#8CDFFF" mask="url(#mask-2)" transform="translate(18.677670, 17.677670) scale(1, -1) rotate(45.000000) translate(-18.677670, -17.677670) "></path>
+        </g>
+    </g>
+</svg>

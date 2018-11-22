@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>back</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="45" height="45"></rect>
+    </defs>
+    <g id="back" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Combined-Shape">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <path d="M26.1563177,14.0939829 L19.8458386,14.0939829 L19.8458386,9 L6,15.8794583 L19.8458386,22.759096 L19.8458386,17.6768101 L26.678786,17.6768101 C32.0876521,17.6768101 34.7912734,19.9279701 34.7912734,24.4304247 C34.7912734,29.0886601 31.9976351,31.4171729 26.4089154,31.4171729 L10.4727075,31.4171729 L10.4727075,35 L26.5710001,35 C34.1903785,35 38,31.5902976 38,24.7708929 C38,17.6531919 34.0524216,14.0939829 26.1563177,14.0939829 Z" id="Fill-1" fill="#8CDFFF" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

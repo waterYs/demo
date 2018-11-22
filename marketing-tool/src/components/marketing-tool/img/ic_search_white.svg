@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ic_search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" fill="rgba(27,132,187,1)">
+            <path d="M16.5,29.5 C9.32029825,29.5 3.5,23.6797017 3.5,16.5 C3.5,9.32029825 9.32029825,3.5 16.5,3.5 C23.6797017,3.5 29.5,9.32029825 29.5,16.5 C29.5,23.6797017 23.6797017,29.5 16.5,29.5 Z M16.5,26.5 C22.0228475,26.5 26.5,22.0228475 26.5,16.5 C26.5,10.9771525 22.0228475,6.5 16.5,6.5 C10.9771525,6.5 6.5,10.9771525 6.5,16.5 C6.5,22.0228475 10.9771525,26.5 16.5,26.5 Z" id="Oval-3" fill-rule="nonzero"></path>
+            <rect id="Rectangle-4" transform="translate(26.474874, 26.474874) rotate(-45.000000) translate(-26.474874, -26.474874) " x="24.9748737" y="22.4748737" width="3" height="8" rx="1.5"></rect>
+        </g>
+    </g>
+</svg>
